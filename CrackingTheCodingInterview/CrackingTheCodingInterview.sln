@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrackingTheCodingInterview", "CrackingTheCodingInterview\CrackingTheCodingInterview.csproj", "{9AE892BB-8891-4AB8-8007-BA1C2AF9E260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter-01", "Chapter-01\Chapter-01.csproj", "{66A757DB-F2DF-4705-9294-B27099D4FEE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE892BB-8891-4AB8-8007-BA1C2AF9E260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE892BB-8891-4AB8-8007-BA1C2AF9E260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE892BB-8891-4AB8-8007-BA1C2AF9E260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE892BB-8891-4AB8-8007-BA1C2AF9E260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66A757DB-F2DF-4705-9294-B27099D4FEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A757DB-F2DF-4705-9294-B27099D4FEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A757DB-F2DF-4705-9294-B27099D4FEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A757DB-F2DF-4705-9294-B27099D4FEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96EB6C15-B25A-49DE-B778-973FFF84D767}
+	EndGlobalSection
+EndGlobal
